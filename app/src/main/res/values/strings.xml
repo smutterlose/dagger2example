@@ -1,0 +1,12 @@
+<resources>
+    <string name="_app_name">Dagger2</string>
+    <string name="launcher_activity_title">Launcher</string>
+    <string name="launcher_btn_close">@string/_decline</string>
+    <string name="launcher_btn_next">@string/_accept</string>
+    <string name="title_activity_wizard">Wizard</string>
+    <string name="action_settings">Settings</string>
+    <string name="launcher_cb_eula"><u>I have read the end user license agreement</u></string>
+    <string name="_accept">Accept</string>
+    <string name="_decline">Decline</string>
+    <string name="eula_title">End user license agreement</string>
+</resources>
